@@ -1,12 +1,19 @@
 body{
    
-    text-align: center;
+  
+    background-color: cornsilk;
 }
 img{
     position:absolute;
  
 }
+h1{
+  
+}
 #container{
-   
-    
+  
+}
+
+button{
+    color: cornflowerblue;
 }
