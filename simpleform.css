@@ -1,6 +1,19 @@
 body{
-    background-color: white;
+   
+  
+    background-color: cornsilk;
 }
-[type="checkbox"]{
-    color:red;
+img{
+    position:absolute;
+ 
+}
+h1{
+  
+}
+#container{
+  
+}
+
+button{
+    color: cornflowerblue;
 }
