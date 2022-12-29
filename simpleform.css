@@ -1,19 +1,12 @@
-body{
-   
-  
+body {
     background-color: cornsilk;
 }
-img{
-    position:absolute;
- 
-}
-h1{
-  
-}
-#container{
-  
+
+.favorite_game {
+    padding-bottom: 10px;
 }
 
-button{
+button {
     color: cornflowerblue;
+    margin-top: 10px;
 }
