@@ -1,19 +1,20 @@
-body{
-   
-  
+body {
+
+
     background-color: cornsilk;
 }
-img{
-    position:absolute;
- 
-}
-h1{
-  
-}
-#container{
-  
+
+img {
+    position: absolute;
+
 }
 
-button{
+h1 {}
+
+.favorite_games {
+    padding-bottom: 10px;
+}
+
+button {
     color: cornflowerblue;
 }
