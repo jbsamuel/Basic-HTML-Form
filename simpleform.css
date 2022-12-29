@@ -2,6 +2,11 @@ body {
     background-color: cornsilk;
 }
 
+.favorite_game {
+    padding-bottom: 10px;
+}
+
 button {
     color: cornflowerblue;
+    margin-top: 10px;
 }
