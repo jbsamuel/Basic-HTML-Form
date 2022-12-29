@@ -10,10 +10,10 @@
     <h1>Games and Platforms Survey</h1>
     <form>
         <label for="firstname">First Name</label>
-        <input type="text" name="firstname" id="firstname">
+        <input type="text" name="firstname" id="firstname" required>
 
         <label for="lastname">Last Name</label>
-        <input type="text" name="lastname" id="lastname">
+        <input type="text" name="lastname" id="lastname" required>
 
         <h2>Which platforms do you play on?</h2>
         <div>
@@ -59,12 +59,10 @@
             <input type="text" name="fave_game" id="fifth">
         </div>
         <h2>Favorite Game Genre?</h2>
+        <label for="genre">Enter a genre</label>
+        <input type="text" name="genre" id="genre">
         <div>
-            <label for="genre">Enter a genre</label>
-        </div>
-        <textarea name="genre" id="genre" cols="20" rows="5"></textarea>
-        <div>
-            <button>Submit</button>
+            <button>Submit Form</button>
         </div>
     </form>
 </body>
